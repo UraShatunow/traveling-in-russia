@@ -1,0 +1,7 @@
+@import url('__title/place__title.css');
+@import url('__website/place__website.css');
+
+.place__heading {
+    width: 100%;
+    display: flex;
+}

@@ -1,0 +1,24 @@
+.photo-grid__item {
+    width: calc(100% / 4 - 0.8%);
+    padding-bottom: 1%;
+}
+
+@media screen and (max-width: 1024px) {
+    .photo-grid__item {
+        width: calc(100% / 3 - 0.8%);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .photo-grid__item {
+        width: calc(100% / 2 - 0.8%);
+        padding-bottom: 2%;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .photo-grid__item {
+        width: 100%;
+        padding-bottom: 2%;
+    }
+}

@@ -1,0 +1,14 @@
+@import url('__text-span-accent/intro__text-span-accent.css');
+
+.intro__text {
+    width: 95%;
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: 35px;
+}
+
+@media screen and (max-width: 425px) {
+    .intro__text {
+        font-size: 12px;
+    }
+}

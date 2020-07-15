@@ -1,0 +1,6 @@
+@import url('__lang-item/header__lang-item.css');
+
+.header__lang {
+    position: relative;
+    bottom: -10px;
+}

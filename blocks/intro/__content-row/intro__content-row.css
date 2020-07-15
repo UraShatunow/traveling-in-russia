@@ -1,0 +1,7 @@
+@import url('__content-row-left/intro__content-row-left.css');
+@import url('__content-row-right/intro__content-row-right.css');
+
+.intro__content-row {
+    margin-top: 35px;
+    display: flex;
+}

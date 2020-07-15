@@ -1,0 +1,13 @@
+.comments__item {
+    width: calc(100% / 3 - 15px);
+}
+
+@media screen and (max-width: 768px) {
+    .comments__item {
+        width: 100%;
+        margin-bottom: 45px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}

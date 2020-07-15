@@ -1,0 +1,9 @@
+@import url('__lang/header__lang.css');
+@import url('__logo/header__logo.css');
+
+.header {
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,16 @@
+@import url('__image/place__image.css');
+@import url('__text/place__text.css');
+
+.place__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 60px;
+}
+
+@media screen and (max-width: 550px) {
+    .place__inner {
+        flex-direction: column;
+        align-items: center;
+    }
+}

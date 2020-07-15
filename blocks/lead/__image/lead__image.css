@@ -1,0 +1,11 @@
+.lead__image {
+    width: 100%;
+    padding-bottom: 50%;
+    margin-top: 78px;
+
+    background-image: url('../../../img/lead__image.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 101%;
+}
+

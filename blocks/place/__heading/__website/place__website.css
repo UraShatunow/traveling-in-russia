@@ -1,0 +1,20 @@
+@import url('__link/place__link.css');
+
+.place__website {
+    margin-left: 40px;
+    width: calc(50% - 50px);
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.2em;
+
+    color: #AAAAAA;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+@media screen and (max-width: 550px) {
+    .place__website {
+        display: none; 
+    }
+}

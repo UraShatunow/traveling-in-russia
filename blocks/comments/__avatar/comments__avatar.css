@@ -1,0 +1,11 @@
+.comments__avatar {
+    width: 97px;
+    border-radius: 100px;
+}
+
+@media screen and (max-width: 768px) {
+    .comments__avatar {
+        display: flex;
+        order: 1;
+    }
+}
