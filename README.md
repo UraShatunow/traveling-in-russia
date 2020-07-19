@@ -1,1 +1,4 @@
-#  https://urashatunow.github.io/traveling-in-russia/
+### Ссылка на проект:  https://urashatunow.github.io/traveling-in-russia/
+
+## Что это такое?
+  Одностраничный сайт о путешествии по России. Одна из моих ранних работ по закреплению адаптивной верстки на Яндекс.Практикум 
